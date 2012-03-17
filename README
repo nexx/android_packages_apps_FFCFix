@@ -1,0 +1,2 @@
+Fixes FFC crash encountered when using Gingerbread camera libraries on
+ICS ROMs with the msm7x30 camera HAL.
